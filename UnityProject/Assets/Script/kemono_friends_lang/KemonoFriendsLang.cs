@@ -1,5 +1,7 @@
 ﻿namespace KemonoFriendsLang
 {
+    using System.Text;
+
     /// <summary>
     /// コンパイラ
     /// </summary>
@@ -13,5 +15,16 @@
         public string cls { get { return "わーい！"; } }            // ポインタの指す値が0ではいなら 対応するOPNまでジャンプする
         public string put { get { return "なにこれなにこれ！"; } }  // ポインタの指す値を出力する
         public string get { get { return "おもしろーい！"; } }      // 入力から1バイト読み込む
+
+        /// <summary>
+        /// Output ASCII char
+        /// </summary>
+        /// <param name="value">ASCII code</param>
+        /// <returns></returns>
+        public string なにこれなにこれ(byte value)
+        {
+            var encoding = Encoding.ASCII;
+            return encoding.GetString(new byte[] { value });
+        }
     }
 }
