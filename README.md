@@ -15,12 +15,17 @@ Kemono語をUnityで使えるようにしたよ！
 
 kemono語についてくわしいことは　[本家](https://github.com/consomme/kemono_friends_lang)をみてね！
 
+ロゴは[ジェネレータ](https://aratama.github.io/kemonogen/)で作ったよ！すごーい！
+
 
 Demo
 ----
 
 Sampleフォルダにある Sample.unityがそうだよ！
 わーい！ゲームじゃないね！
+
+このサンプルはASCIIコードの場合だけど、
+文字コードを変えれば日本語も何語もできるんじゃないかな！
 
 Licence
 ----
@@ -31,6 +36,8 @@ SEE ALSO
 ----
 http://ja.wikipedia.org/wiki/Brainfuck
 https://github.com/consomme/kemono_friends_lang
+https://aratama.github.io/kemonogen/
+https://github.com/aratama/kemonogen
 
 Other
 ----
