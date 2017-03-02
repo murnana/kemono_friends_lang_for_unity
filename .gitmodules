@@ -1,9 +1,4 @@
-[submodule "r-fxxk"]
-	path = r-fxxk
-	url = https://github.com/masarakki/r-fxxk.git
 [submodule "kemono_friends_lang"]
 	path = kemono_friends_lang
 	url = https://github.com/consomme/kemono_friends_lang.git
-[submodule "ruby"]
-	path = ruby
-	url = https://github.com/ruby/ruby
+	
