@@ -34,10 +34,10 @@ MIT
 
 SEE ALSO
 ----
-http://ja.wikipedia.org/wiki/Brainfuck
-https://github.com/consomme/kemono_friends_lang
-https://aratama.github.io/kemonogen/
-https://github.com/aratama/kemonogen
+* http://ja.wikipedia.org/wiki/Brainfuck
+* https://github.com/consomme/kemono_friends_lang
+* https://aratama.github.io/kemonogen/
+* https://github.com/aratama/kemonogen
 
 Other
 ----
